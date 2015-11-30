@@ -1,5 +1,5 @@
 <?php
-
+echo "<a href='http://www.speglaweb.com' style=''> back to speglaweb.com</a>";
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
